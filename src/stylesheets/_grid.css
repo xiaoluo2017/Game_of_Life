@@ -1,0 +1,18 @@
+.live {
+  background-color: #e44;
+}
+
+.dead {
+  background-color: #f8f9fa;
+}
+
+.newlive {
+  background-color: #f0ad4e;
+}
+
+.cell {
+  width: 0.5em;
+  height: 0.5em;
+  border: 1px #FFF solid;
+  float: left;
+}
