@@ -1,5 +1,5 @@
 # Game_of_Life
-A simulator for Conway's Game of Life<br/>
+A simulator for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)<br/>
 
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
@@ -27,6 +27,3 @@ cd Game_of_Life && npm install
 npm start
 ```
 * open your browser and go to localhost:3000
-
-## Reference
-Here's an overview of Conway's Game of Life with rules in [Wiki](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
