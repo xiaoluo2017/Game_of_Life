@@ -1,5 +1,6 @@
 # Game_of_Life
 A simulator for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)<br/>
+Feel free to add cells while it's running. The cells in orange are younger, red are older. Enjoy!<br/>
 
 <p align="center" margin-bottom="0">
   <a href="http://www.hnclone.win" target="_blank">
@@ -9,9 +10,6 @@ A simulator for [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s
 <p align="center">
   <a href="https://agile-depths-93328.herokuapp.com/">Live Demo</a>
 </p>
-
-## Features
-Feel free to add cells while it's running. The cells in orange are younger, red are older. Enjoy!
 
 ## Usage
 * Clone Repo 
