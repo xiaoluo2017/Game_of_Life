@@ -8,7 +8,7 @@ Feel free to add cells while it's running. The cells in orange are younger, red 
   </a>
 </p>
 <p align="center">
-  <a href="https://agile-depths-93328.herokuapp.com/">Live Demo</a>
+  <a href="https://floating-escarpment-18894.herokuapp.com/">Live Demo</a>
 </p>
 
 ## Getting Started
