@@ -11,7 +11,7 @@ Feel free to add cells while it's running. The cells in orange are younger, red 
   <a href="https://agile-depths-93328.herokuapp.com/">Live Demo</a>
 </p>
 
-## Usage
+## Getting Started
 * Clone Repo 
 ```
 git clone https://github.com/xiaoluo2017/Game_of_Life.git
